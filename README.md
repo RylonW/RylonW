@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 Graduate Student at [SCUT](https://en.scut.edu.cn/), ME in Information & Communication Engineering
 - 🌱 Intern at [CCVL](https://ccvl.jhu.edu/) & [CRAI](https://ruiliurobotics.weebly.com/)
+- 🤔 Free free to visit my [personal website](https://rylonw.github.io/RuiluWang.github.io/en/resume/) to learn more about me!
 - 👯 I’m looking to 25fall phd position in computer vision & efficient AI. Feel free to contact with me!
 - 📫 How to reach me: ruiluwang2rylonw@gmail.com
